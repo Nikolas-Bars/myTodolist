@@ -1,13 +1,22 @@
 {
   "files": {
-    "main.css": "/myTodolist/static/css/main.054cca00.css",
-    "main.js": "/myTodolist/static/js/main.44ae3259.js",
-    "index.html": "/myTodolist/index.html",
-    "main.054cca00.css.map": "/myTodolist/static/css/main.054cca00.css.map",
-    "main.44ae3259.js.map": "/myTodolist/static/js/main.44ae3259.js.map"
+    "main.css": "/FridayProject/static/css/main.aa207b39.chunk.css",
+    "main.js": "/FridayProject/static/js/main.1085a00b.chunk.js",
+    "main.js.map": "/FridayProject/static/js/main.1085a00b.chunk.js.map",
+    "runtime-main.js": "/FridayProject/static/js/runtime-main.8a92cd8d.js",
+    "runtime-main.js.map": "/FridayProject/static/js/runtime-main.8a92cd8d.js.map",
+    "static/js/2.9c35b9c4.chunk.js": "/FridayProject/static/js/2.9c35b9c4.chunk.js",
+    "static/js/2.9c35b9c4.chunk.js.map": "/FridayProject/static/js/2.9c35b9c4.chunk.js.map",
+    "index.html": "/FridayProject/index.html",
+    "precache-manifest.3a52c953b0c33b7f316c8f5cd43837ab.js": "/FridayProject/precache-manifest.3a52c953b0c33b7f316c8f5cd43837ab.js",
+    "service-worker.js": "/FridayProject/service-worker.js",
+    "static/css/main.aa207b39.chunk.css.map": "/FridayProject/static/css/main.aa207b39.chunk.css.map",
+    "static/js/2.9c35b9c4.chunk.js.LICENSE.txt": "/FridayProject/static/js/2.9c35b9c4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/css/main.054cca00.css",
-    "static/js/main.44ae3259.js"
+    "static/js/runtime-main.8a92cd8d.js",
+    "static/js/2.9c35b9c4.chunk.js",
+    "static/css/main.aa207b39.chunk.css",
+    "static/js/main.1085a00b.chunk.js"
   ]
 }
